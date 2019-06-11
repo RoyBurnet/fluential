@@ -1,0 +1,12 @@
+.page-container {
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+
+    .title {
+        align-self: flex-start;
+        font-family: 'Archivo', sans-serif;
+        font-size: 28px;
+    }
+
+}
